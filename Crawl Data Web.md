@@ -20,7 +20,7 @@ Dosen pengampu : Mulaab, S.Si., M.Kom.
 
 - import SQLite3 
 
-- website: 
+- website: 'http://www.bukabuku.com/'
 
 - program pertama digunakan untuk mendownload kode html website yang kemudian akan  dirubah kedalam objek BeautifulSoup4
 
